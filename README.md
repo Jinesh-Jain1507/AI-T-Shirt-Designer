@@ -63,22 +63,22 @@ Make sure you have the following installed on your machine:
 
 3. **Install  Node Modules**
 
-Install the project dependencies using npm in the frontend file(Tshirt Design):
-  ```bash
-npm install
-```
+   Install the project dependencies using npm in the frontend file(Tshirt Design):
+      ```bash
+      npm install
+      ```
 
-4. **Set Up Environment Variables**
+5. **Set Up Environment Variables**
 
-Create a new file named `.env` in the same folder as `.env.sample` and add your secret key. You can obtain these credentials by signing up on the [OpenAI website](https://openai.com/).
+   Create a new file named `.env` in the same folder as `.env.sample` and add your secret key. You can obtain these credentials by signing up on the [OpenAI website](https://openai.com/).
 
-5. **Running the Project**
+6. **Running the Project**
 
-- TshirtBackend
+   - TshirtBackend
    ```bash
    python manage.py runserver
    ```
-- TshirtDesign
+   - TshirtDesign
    ```bash
    npm run dev
    ```
