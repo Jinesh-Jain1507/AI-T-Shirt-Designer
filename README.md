@@ -4,6 +4,10 @@ Welcome to the AI-Powered T-Shirt Design Generator project! This project combine
 for t-shirts.The AI-Powered T-Shirt Design Generator is a web application that utilizes AI prompts to generate custom t-shirt designs. It is built using ReactJS for the frontend and Django for the 
 backend. Users can input prompts, such as themes or concepts, and the AI model generates corresponding design suggestions. These designs can then be customized and downloaded by the users.
 
+## Implementation video
+
+[![Watch the video](https://img.youtube.com/vi/4lGtHcg2RFM/0.jpg)](https://www.youtube.com/watch?v=4lGtHcg2RFM)
+
 ## Technologies Used
 
 - React.js
